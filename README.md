@@ -16,7 +16,7 @@ All data is persisted between sessions using serialization with `pickle`.
 
 ## Technologies Used
 
-- Python 3.12+
+- Python 3.12.7
 - Object-Oriented Programming
 - File I/O and `pickle` for data persistence
 
